@@ -1,0 +1,75 @@
+body {
+    color: black;
+    background-color: rgb(222, 217, 217);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.bagian-1 img {
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 43%;
+    margin-right: auto;
+}
+
+.bagian-1 h1 {
+
+    font-family: Arial;
+    font-size: larger;
+    color: blue;
+    text-align: center;
+}
+
+.bagian-1-deskripsi {
+
+    text-align: center;
+}
+
+hr {
+
+    height: 2px;
+    border-color: aqua;
+    background-color: aqua;
+}
+
+
+.bagian-2 h2,h4,p{
+    display: block;
+    text-align: center;
+}
+
+
+li{
+
+    display: list-item;
+    text-align: center;
+}
+
+.bagian-2 img {
+
+    width: 20px;
+    height: auto;
+
+}
+
+.iconkontak {
+
+    width: 10px;
+    height: auto;
+}
+.bottomhr {
+
+    margin-top: 20px;
+    border-color: black;
+    background-color: black;
+}
+
+.bawah {
+
+    font-size: 10px;
+    text-align: center;
+    font-family: Tahoma;
+}
